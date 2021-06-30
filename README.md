@@ -7,10 +7,9 @@ I'm Harun from Belgium
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrnsykk&exclude_repo=github-readme-stats,hrnsykk.github.io)](https://github.com/hrnsykk/github-readme-stats)
 
 
-<details>
-<summary>:bulb:  Most Used Languages</summary>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrnsykk&layout=compact" >
-</details>
+
 <!--
 **hrnsykk/hrnsykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
